@@ -6,6 +6,30 @@
   },
   "entries": [
     {
+      "id": "20260318-173323-46ia",
+      "title": "Caymander, Clairvoyant Link",
+      "commanders": [
+        "Caymander",
+        "Clairvoyant Link"
+      ],
+      "dateStart": "2026-03-19T00:33:23.000Z",
+      "dateEnd": "2026-03-19T02:26:17.000Z",
+      "dateLabel": "3/18/2026, 5:33:23 PM - 3/18/2026, 7:26:17 PM",
+      "url": "https://aIobster.github.io/logs/?report=20260318-173323-46ia",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 40,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260316-165040-8vlx",
       "title": "Clairvoyant Link",
       "commanders": [
